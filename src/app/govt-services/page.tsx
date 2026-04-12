@@ -14,6 +14,39 @@ const GovtServices = () => {
       list: ["New Aadhar", "Update Aadhar", "Mobile Link", "Address Change"],
     },
     {
+      title: "Legal Services",
+      list: [
+      "Affidavit Making",
+      "Notary Services",
+      "Rental Agreement",
+      "Name Change Process",
+      "Court Documentation",
+      "Legal सलाह & Consultation"
+         ],
+    },
+    {
+     title: "Financial Services",
+     list: [
+      "GST Registration",
+      "GST Return Filing",
+      "Income Tax Filing (ITR)",
+      "Business Registration",
+      "MSME Registration",
+      "Loan Assistance"
+     ],
+     },
+    {
+     title: "Investment Services",
+     list: [
+      "Stock Market Account (Demat)",
+      "Mutual Fund Investment",
+      "SIP Setup",
+      "Insurance Plans",
+      "Retirement Planning",
+      "Gold Investment"
+        ],
+    },
+    {
       title: "PAN Card Services",
       list: ["New PAN", "PAN Correction", "Lost PAN Reprint"],
     },
